@@ -163,92 +163,29 @@
                     <h2 class="stitle">Latest News</h2>
                     <a class="more-news" href="#">More News</a>
                     <div class="isotope items">
+
                         <!--Item Start-->
-                        <div class="item col-md-4">
-                            <div class="news-box img-post">
-                                <div class="news-thumb">
-                                    <div class="img-caption">
+
+                        <!--Item Start-->
+                        @foreach(\App\Post::all() as $post)
+                            <div class="item col-md-4">
+                                <div class="news-box">
+                                    <div class="news-thumb"> <img src="/storage/{{$post->image}}" alt=""> </div>
+                                    <div class="news-excerpt">
                                         <span class="post-date"><i class="far fa-calendar-alt"></i> Aug 22, 2018</span>
-                                        <h4> <a href="#">Consider MBA Programs That Offer Summer Prep</a> </h4>
+                                        <h4> <a href="/post/{{$post->slug}}">
+                                                @if(!isset($lang_ar))
+                                                    {{$post->title_en}}
+                                                @else
+                                                    {{$post->title_ar}}
+                                                @endif
+                                            </a> </h4>
                                     </div>
-                                    <img src="http://gramotech.com/html/edugrade/images/h1news-thumb1.jpg" alt="">
+                                    <a class="news-details" href="/posts">News Detail</a>
                                 </div>
                             </div>
-                        </div>
-                        <!--Item End-->
-                        <!--Item Start-->
-                        <div class="item col-md-4">
-                            <div class="news-box">
-                                <div class="news-excerpt">
-                                    <span class="post-date"><i class="far fa-calendar-alt"></i> Aug 22, 2018</span>
-                                    <h4> <a href="single.html">Extra-curricular activities can fulfil</a> </h4>
-                                    <p>Learning to live, study and work in a thriving business capital is exciting, Ut enim ad minim veniam, quis nostrud exercitation.</p>
-                                </div>
-                                <a class="news-details" href="#">News Detail</a>
-                            </div>
-                        </div>
-                        <!--Item End-->
-                        <!--Item Start-->
-                        <div class="item col-md-4">
-                            <div class="news-box">
-                                <div class="news-thumb"> <img src="http://gramotech.com/html/edugrade/images/h1news-thumb1.jpg" alt=""> </div>
-                                <div class="news-excerpt">
-                                    <span class="post-date"><i class="far fa-calendar-alt"></i> Aug 22, 2018</span>
-                                    <h4> <a href="single.html">WordPress: Make A custom Plugins </a> </h4>
-                                </div>
-                                <a class="news-details" href="#">News Detail</a>
-                            </div>
-                        </div>
-                        <!--Item End-->
-                        <!--Item Start-->
-                        <div class="item col-md-4">
-                            <div class="news-box">
-                                <div class="news-thumb"> <img src="http://gramotech.com/html/edugrade/images/h1news-thumb1.jpg" alt=""> </div>
-                                <div class="news-excerpt">
-                                    <span class="post-date"><i class="far fa-calendar-alt"></i> Aug 22, 2018</span>
-                                    <h4> <a href="single.html">Students work together to solve a problem</a> </h4>
-                                    <p>Learning to live, study and work in a thriving business capital is exciting, Ut enim ad minim veniam, quis nostrud exercitation.</p>
-                                </div>
-                                <a class="news-details" href="#">News Detail</a>
-                            </div>
-                        </div>
-                        <!--Item End-->
-                        <!--Item Start-->
-                        <div class="item col-md-4">
-                            <div class="news-box active">
-                                <div class="news-excerpt">
-                                    <span class="post-date"><i class="far fa-calendar-alt"></i> Aug 22, 2018</span>
-                                    <h4> <a href="single.html">https://horizon.net/user/profile/portfolio</a> </h4>
-                                </div>
-                                <a class="news-details" href="#">News Detail</a>
-                            </div>
-                        </div>
-                        <!--Item End-->
-                        <!--Item Start-->
-                        <div class="item col-md-4">
-                            <div class="news-box">
-                                <div class="news-excerpt">
-                                    <span class="post-date"><i class="far fa-calendar-alt"></i> Aug 22, 2018</span>
-                                    <h4> <a href="single.html">Students work together to solve a problem</a> </h4>
-                                    <p>Learning to live, study and work in a thriving business capital is exciting, Ut enim ad minim veniam, quis nostrud exercitation.</p>
-                                </div>
-                                <a class="news-details" href="#">News Detail</a>
-                            </div>
-                        </div>
-                        <!--Item End-->
-                        <!--Item Start-->
-                        <div class="item col-md-4">
-                            <div class="news-box img-post">
-                                <div class="news-thumb">
-                                    <div class="img-caption">
-                                        <span class="post-date"><i class="far fa-calendar-alt"></i> Aug 22, 2018</span>
-                                        <h4> <a href="#">Consider MBA Programs That Offer Summer Prep</a> </h4>
-                                    </div>
-                                    <img src="http://gramotech.com/html/edugrade/images/h1news-thumb1.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <!--Item End-->
+                        @endforeach
+
                     </div>
                 </div>
             </div>
@@ -259,47 +196,26 @@
                     <h2 class="stitle">Upcoming Events</h2>
                     <div class="row">
                         <!--Event Box Start-->
-                        <div class="col-md-4 col-sm-4">
-                            <div class="event-box">
-                                <div class="event-thumb">
-                                    <div class="edate"> Jun <strong>16</strong> </div>
-                                    <span class="etime"><i class="far fa-clock"></i> 10:00am - 5:00pm</span> <img src="http://gramotech.com/html/edugrade/images/h1-event1.jpg" alt="">
-                                </div>
-                                <div class="event-excerpt">
-                                    <h4> <a href="#">Ireland student exchange meetup</a> </h4>
-                                    <span><i class="fas fa-map-marker-alt"></i> Hall - A | Amman Stadium</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Event Box End-->
-                        <!--Event Box Start-->
-                        <div class="col-md-4 col-sm-4">
-                            <div class="event-box">
-                                <div class="event-thumb">
-                                    <div class="edate"> Jun <strong>17</strong> </div>
-                                    <span class="etime"><i class="far fa-clock"></i> 10:00am - 5:00pm</span> <img src="http://gramotech.com/html/edugrade/images/h1-event1.jpg" alt="">
-                                </div>
-                                <div class="event-excerpt">
-                                    <h4> <a href="#">Turkish student first arabic meetup</a> </h4>
-                                    <span><i class="fas fa-map-marker-alt"></i> Hall - V | Jordan University </span>
+                        @foreach(\App\Event::all() as $event)
+                            <div class="col-md-4 col-sm-4">
+                                <div class="event-box">
+                                    <div class="event-thumb">
+                                        <div class="edate"> {{$event->start_date->format('M')}} <strong>{{$event->start_date->format('d')}}</strong> </div>
+                                        <span class="etime"><i class="far fa-clock"></i> {{$event->start_date->format('H:i')}} -  {{$event->end_date->format('H:i')}}</span> <img src="/storage/{{$event->image}}" alt="">
+                                    </div>
+                                    <div class="event-excerpt">
+                                        <h4> <a href="/event/{{$event->slug}}">
+                                                @if(!isset($lang_ar))
+                                                    {{$event->title_en}}
+                                                @else
+                                                    {{$event->title_ar}}
+                                                @endif
+                                            </a> </h4>
+                                        <span><i class="fas fa-map-marker-alt"></i> {{$event->place}}</span>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <!--Event Box End-->
-                        <!--Event Box Start-->
-                        <div class="col-md-4 col-sm-4">
-                            <div class="event-box">
-                                <div class="event-thumb">
-                                    <div class="edate"> Jun <strong>16</strong> </div>
-                                    <span class="etime"><i class="far fa-clock"></i> 10:00am - 5:00pm</span> <img src="http://gramotech.com/html/edugrade/images/h1-event1.jpg" alt="">
-                                </div>
-                                <div class="event-excerpt">
-                                    <h4> <a href="#">Seminar with Professor Adam Arvidsson 2018</a> </h4>
-                                    <span><i class="fas fa-map-marker-alt"></i> Hall - A | Broklyn Audiitorium</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Event Box End-->
+                       @endforeach
                     </div>
                 </div>
             </div>
@@ -337,23 +253,7 @@
             </div>
             <!--Meet Our Professors End-->
         </div>
-        <!--Page Content End-->
-        <div class="newsletter">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                        <h3>Subscribe Newsletter</h3>
-                        <strong>To get more updates subscribe our newsletter</strong>
-                    </div>
-                    <div class="col-md-8">
-                        <div class="input-group"> <i class="far fa-envelope-open"></i>
-                            <input type="text" class="form-control" placeholder="Enter email">
-                            <input type="submit" value="Subscribe" class="subscribe">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <!--Footer Start-->
         @include('layouts.footer')
         <!--Footer End-->

@@ -22,6 +22,12 @@ class CreateUsersTable extends Migration
             $table->rememberToken();
             $table->timestamps();
         });
+
+        $user= new \App\User();
+        $user->name = "Mohammad";
+        $user->email= "arbioun@gmail.com";
+        $user->password = '$2y$12$BsNbNbAgCjrmArx1sTURB.lkUO4E8BVQkfZFxo3wqoFlwjnWPqdiC';
+        $user->save();
     }
 
     /**

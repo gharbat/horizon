@@ -20,14 +20,8 @@ Route::get('/about', function () {
 });
 
 
+Route::get('/post/{slug}','PostController@showPost');
 
-Route::get('/admin/panel', function () {
-    return view('admin.index');
-});
-
-Route::get('/admin/add-course', function () {
-    return view('admin.add-course');
-});
 
 Auth::routes();
 
