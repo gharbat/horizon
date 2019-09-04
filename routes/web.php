@@ -23,6 +23,7 @@ Route::get('/about', function () {
 Route::get('/post/{slug}','PostController@showPost');
 
 Route::get('/event/{slug}','EventController@showEvent');
+Route::get('/events','EventController@allEvents');
 
 Route::get('/contact','TicketController@addTicket');
 
