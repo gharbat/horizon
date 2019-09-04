@@ -9,4 +9,8 @@ class Course extends Model
     public function registers(){
         return $this->hasMany('App\CourseRegister');
     }
+
+    public function lessons(){
+        return $this->hasMany('App\Lesson');
+    }
 }

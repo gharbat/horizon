@@ -21,7 +21,13 @@ Route::get('/about', function () {
 
 
 Route::get('/post/{slug}','PostController@showPost');
+
 Route::get('/event/{slug}','EventController@showEvent');
+
+Route::get('/contact','TicketController@addTicket');
+
+Route::get('/course/{slug}','CourseController@showCourse');
+Route::get('/courses','CourseController@allCourses');
 
 
 Auth::routes();

@@ -21,7 +21,7 @@ class CreateCoursesTable extends Migration
             $table->text('body_ar');
             $table->text('body_en');
             $table->text('price');
-
+            $table->text('author');
             $table->text('department');
             $table->text('image');
             $table->text('video_id');

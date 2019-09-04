@@ -69,7 +69,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    Horizon 2019, All Rights Reserved, Design & Developed By <a href="http://gharabat.com/" target="_blank">Gharbat</a> </div>
+                    Horizon 2019, All Rights Reserved,  Developed By <a href="https://jedar.space/" target="_blank">Jedar</a> </div>
                 <div class="col-md-6">
                     <ul class="footer-social">
                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>

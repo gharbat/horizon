@@ -12,43 +12,30 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav">
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
+                                    <a href="/" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">Home</a>
                                 </li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">services <span class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="event-grid.html">1</a></li>
-                                        <li><a href="event-list.html">2</a></li>
-                                        <li><a href="single-event.html">3</a></li>
+                                        <li><a href="/page/study-abroad">Study Abroad</a></li>
+                                        <li><a href="/page/translation">Translation</a></li>
+                                        <li><a href="/page/student-exchange">Student Exchange</a></li>
+                                        <li><a href="/page/Language-Learning">Language Learning</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Course <span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="course-grid.html">Course Grid 4 Col</a></li>
-                                        <li><a href="course-grid-3col.html">Course Grid 3 Col</a></li>
-                                        <li><a href="course-grid-3col-v2.html">Course Grid 3 Col-V2</a></li>
-                                        <li><a href="course-grid-2col.html">Course Grid 2 Col</a></li>
-                                        <li><a href="course-list.html">Course List With Sidebar</a></li>
-                                        <li><a href="course-list-2.html">Course List V2</a></li>
-                                        <li><a href="course-single.html">Course Single</a></li>
-                                    </ul>
+                                    <a href="/courses" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">Course </a>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                                        <li><a href="blog-list.html">Blog List</a></li>
-                                        <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                                        <li><a href="single-blog.html">Blog Single</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Get Appointments </a>
-                                </li>
-                                <li><a href="aboutus.html">About Us </a></li>
+                                    <a href="/news" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News</a>
 
-                                <li><a href="contact.html">Contact </a></li>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="/contact" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Get Appointments </a>
+                                </li>
+                                <li><a href="/about">About Us </a></li>
+
+                                <li><a href="/contact">Contact </a></li>
                             </ul>
                         </div>
                     </nav>

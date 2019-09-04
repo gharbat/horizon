@@ -61,6 +61,7 @@ class Course extends Resource
             Number::make('Review'),
             Image::make('Image')->disk('public'),
             Text::make('Video ID'),
+            Text::make('author'),
             Select::make('Department')->options([
                 'computer science' => 'computer science',
                 'medicine' => 'medicine',
