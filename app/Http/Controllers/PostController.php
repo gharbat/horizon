@@ -11,4 +11,8 @@ class PostController extends Controller
         $post = Post::where('slug',$slug)->firstOrFail();
         return view('pages.posts.single-post',compact('post'));
     }
+
+    public function allPosts(){
+        return view('pages.posts.all-posts');
+    }
 }
