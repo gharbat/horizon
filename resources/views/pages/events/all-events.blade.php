@@ -7,7 +7,7 @@
 
         <div class="inner-header">
             <div class="inner-header-caption">
-                <h1>All Events</h1>
+                <h1>@lang('index.next')</h1>
                 <ul class="breadcrumb">
                     <li><a href="/"><i class="fas fa-home"></i> index</a></li>
                     <li class="active">Events</li>
