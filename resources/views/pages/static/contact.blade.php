@@ -46,21 +46,28 @@
                         <div class="col-md-7 nop">
                             <div class="team-contact row">
                                 <h3>Get In Touch</h3>
-                                <form>
+                                <form method="post" action="{{url()->current()}}">
+                                    @csrf
                                     <ul>
                                         <li class="col-md-6">
                                             <div class="input-group"> <i class="far fa-user"></i>
-                                                <input type="text" class="form-control" placeholder="Name">
+                                                <input type="text" name="title" class="form-control" placeholder="Name">
                                             </div>
                                         </li>
                                         <li class="col-md-6">
                                             <div class="input-group"> <i class="far fa-envelope-open"></i>
-                                                <input type="text" class="form-control" placeholder="Email">
+                                                <input type="text" name="email" class="form-control" placeholder="Email">
+                                            </div>
+                                        </li>
+
+                                        <li class="col-md-12">
+                                            <div class="input-group"> <i class="far fa-phone"></i>
+                                                <input type="text" name="mobile" class="form-control" placeholder="Mobile">
                                             </div>
                                         </li>
                                         <li class="col-md-12">
                                             <div class="input-group"> <i class="fas fa-pen-square"></i>
-                                                <textarea class="form-control" placeholder="Ask Question"></textarea>
+                                                <textarea class="form-control" name="message" placeholder="Ask Question"></textarea>
                                             </div>
                                         </li>
                                         <li class="col-md-12">

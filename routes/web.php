@@ -29,6 +29,7 @@ Route::get('/event/{slug}','EventController@showEvent');
 Route::get('/events','EventController@allEvents');
 
 Route::get('/contact','TicketController@addTicket');
+Route::post('/contact','TicketController@handleTicket');
 
 Route::get('/course/{slug}','CourseController@showCourse');
 
