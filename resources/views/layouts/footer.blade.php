@@ -40,9 +40,9 @@
                     <address>
                         <ul>
                             <li> <i class="fas fa-home"></i>Amman - Jordan </li>
-                            <li><i class="fas fa-phone"></i> +777 123 9874</li>
-                            <li><i class="fas fa-envelope"></i> info@horizon-education.com</li>
-                            <li><i class="fas fa-globe"></i> www.horizon-education.com</li>
+                            <li><i class="fas fa-phone"></i> +962 79 6070 226</li>
+                            <li><i class="fas fa-envelope"></i> info@horizonedus.com</li>
+                            <li><i class="fas fa-globe"></i> www.horizonedus.com</li>
                         </ul>
                     </address>
                 </div>

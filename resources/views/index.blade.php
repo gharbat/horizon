@@ -13,13 +13,13 @@
                             for Bright Future...</strong>
                         <a href="#">More About</a>
                     </div>
-                    <span class="slide-img"><img src="http://gramotech.com/html/edugrade/images/hp1-slide1.jpg" alt=""></span>
+                    <span class="slide-img"><img src="/production/images/hp1-slide1.jpg" alt=""></span>
                 </div>
                 <div class="item">
                     <div class="slide-caption"> <strong>Get the Best Education<br>
                             for Bright Future...</strong> <a href="#">More About</a>
                     </div>
-                    <span class="slide-img"><img src="http://gramotech.com/html/edugrade/images/hp1-slide1.jpg" alt=""></span>
+                    <span class="slide-img"><img src="/production/images/hp1-slide1.jpg" alt=""></span>
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@
                                 <div class="tweets">
                                     <span class="tw-meta"> <a href="#"><i class="fas fa-reply"></i></a> <a href="#"><i class="fas fa-heart"></i></a> </span>
                                     <h4>Horizon's twitter !</h4>
-                                    <p>We are proud of our diverse University community which attracts students. @GramoTech #horizon</p>
+                                    <p>We are proud of our diverse University community which attracts students. @HorizonEdus #horizon</p>
                                     <span>about 2 hours ago</span>
                                 </div>
                             </div>
