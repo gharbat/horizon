@@ -27,7 +27,7 @@
                             <div class="about-box">
                                 <img src="images/abicon1.png" alt="">
                                 <h3>History</h3>
-                                <p>Edugrade University is one of the world's leading research the universities. It is our conviction that even the ongoing academic programs must be kept under microscopic analysis and curriculum be made a living entity with a built in phenomena of improvement and perfection.Concept and an ideology that revolves around phenomenon of Change for Better.</p>
+                                <p>Horizon University is one of the world's leading research the universities. It is our conviction that even the ongoing academic programs must be kept under microscopic analysis and curriculum be made a living entity with a built in phenomena of improvement and perfection.Concept and an ideology that revolves around phenomenon of Change for Better.</p>
                             </div>
                         </div>
                         <!--History Box End-->
@@ -36,7 +36,7 @@
                             <div class="about-box middle">
                                 <img src="images/abicon2.png" alt="">
                                 <h3>Mission</h3>
-                                <p>Due to the demand from public and private organizations, the Edugrade University also offers in-house corporate language courses which are designed around an organization’s specific needs. We provide a dynamic and international learning environment, we also aim to improve our clients’ skills and knowledge. The personal intellectual growth for each of its students. All that is possible within our diverse academic community.</p>
+                                <p>Due to the demand from public and private organizations, the Horizon University also offers in-house corporate language courses which are designed around an organization’s specific needs. We provide a dynamic and international learning environment, we also aim to improve our clients’ skills and knowledge. The personal intellectual growth for each of its students. All that is possible within our diverse academic community.</p>
                             </div>
                         </div>
                         <!--History Box End-->
@@ -45,7 +45,7 @@
                             <div class="about-box">
                                 <img src="images/abicon3.png" alt="">
                                 <h3>Vision</h3>
-                                <p>Edugrade University is one of the world's leading research the universities. It is our conviction that even the ongoing academic programs must be kept under microscopic analysis and curriculum be made a living entity with a built in phenomena of improvement and perfection.Concept and an ideology that revolves around phenomenon of Change for Better.</p>
+                                <p>Horizon University is one of the world's leading research the universities. It is our conviction that even the ongoing academic programs must be kept under microscopic analysis and curriculum be made a living entity with a built in phenomena of improvement and perfection.Concept and an ideology that revolves around phenomenon of Change for Better.</p>
                             </div>
                         </div>
                         <!--History Box End-->
@@ -69,9 +69,9 @@
             <!--About End-->
 
             <!--Courses Start-->
-            <div class="edugrade-courses">
+            <div class="Horizon-courses">
                 <div class="container">
-                    <h2 class="sub-title">Edugrade Courses</h2>
+                    <h2 class="sub-title">Horizon Courses</h2>
                     <div class="row">
                         <!--Box Start-->
                         <div class="col-md-3 col-sm-6">
@@ -190,88 +190,6 @@
                             </div>
                         </div>
                         <!--Campus Tour Box End-->
-                    </div>
-                </div>
-            </div>
-            <!--Campus Tour End-->
-            <div class="team-style-1 nopb">
-                <div class="container">
-                    <div class="sub-title">
-                        <h2>Meet Edugrade Professors</h2>
-                    </div>
-                    <div class="row">
-                        <!--Team Box Start-->
-                        <div class="col-md-3 col-sm-6">
-                            <div class="team-box">
-                                <img src="images/team1.jpg" alt="">
-                                <div class="team-cap">
-                                    <span class="plusc"><i class="fas fa-plus"></i></span>
-                                    <h5>Mike Jordan</h5>
-                                    <strong>IT Expert</strong>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Team Box End-->
-                        <!--Team Box Start-->
-                        <div class="col-md-3 col-sm-6">
-                            <div class="team-box">
-                                <img src="images/team2.jpg" alt="">
-                                <div class="team-cap">
-                                    <span class="plusc"><i class="fas fa-plus"></i></span>
-                                    <h5>Sarah Johnson</h5>
-                                    <strong>English Language Skills</strong>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Team Box End-->
-                        <!--Team Box Start-->
-                        <div class="col-md-3 col-sm-6">
-                            <div class="team-box">
-                                <img src="images/team3.jpg" alt="">
-                                <div class="team-cap">
-                                    <span class="plusc"><i class="fas fa-plus"></i></span>
-                                    <h5>Michael Windzor</h5>
-                                    <strong>Front-end Dev</strong>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Team Box End-->
-                        <!--Team Box Start-->
-                        <div class="col-md-3 col-sm-6">
-                            <div class="team-box">
-                                <img src="images/team4.jpg" alt="">
-                                <div class="team-cap">
-                                    <span class="plusc"><i class="fas fa-plus"></i></span>
-                                    <h5>Sarah Johnson</h5>
-                                    <strong>English Language Skills</strong>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Team Box End-->
                     </div>
                 </div>
             </div>
