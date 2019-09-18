@@ -234,16 +234,21 @@
 
                         </div>
                         <div class="col-md-3 col-sm-3">
-                            <div class="ci-box c2">
-                                <div class="hcp-icon"><i class="fab fa-whatsapp"></i> </div>
-                                <strong>Whatsapp messages</strong>
-                            </div>
+                            <a href="https://wa.me/962796070226">
+                                <div class="ci-box c2">
+                                    <div class="hcp-icon"><i class="fab fa-whatsapp"></i> </div>
+                                    <strong>Whatsapp messages</strong>
+                                </div>
+                            </a>
+
                         </div>
                         <div class="col-md-3 col-sm-3">
-                            <div class="ci-box c3">
-                                <div class="hcp-icon"> <i class="far fa-newspaper"></i> </div>
-                                <strong>Contact Form</strong>
-                            </div>
+                            <a href="/contact">
+                                <div class="ci-box c3">
+                                    <div class="hcp-icon"> <i class="far fa-newspaper"></i> </div>
+                                    <strong>Contact Form</strong>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="ci-box c4">
