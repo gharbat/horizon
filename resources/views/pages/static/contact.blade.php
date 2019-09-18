@@ -30,8 +30,8 @@
                                 <address>
                                     <ul>
                                         <li><i class="fas fa-map-marker-alt"></i> Street # 75, Amman - Jordan,<br> Abdali</li>
-                                        <li><i class="fas fa-mobile-alt"></i> (962) 777 177 129 </li>
-                                        <li><i class="far fa-envelope"></i>hello@horizon.com</li>
+                                        <li><i class="fas fa-mobile-alt"></i> +962 79 6070 226 </li>
+                                        <li><i class="far fa-envelope"></i>info@horizonedus.com</li>
                                     </ul>
                                 </address>
                                 <ul class="social-links">
