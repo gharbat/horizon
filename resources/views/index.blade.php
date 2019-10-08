@@ -47,14 +47,12 @@
                                     <div class="icon-box mb-40">
                                         <img src="/production/images/h1-icon1.png" alt="">
                                         <h5>Exchange Programs</h5>
-                                        <p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod.</p>
                                     </div>
                                     <!--Icon Box End-->
                                     <!--Icon Box Start-->
                                     <div class="icon-box">
                                         <img src="/production/images/h1-icon2.png" alt="">
                                         <h5>Language Learning</h5>
-                                        <p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod.</p>
                                     </div>
                                     <!--Icon Box End-->
                                 </div>
@@ -63,14 +61,12 @@
                                     <div class="icon-box mb-40">
                                         <img src="/production/images/h1-icon3.png" alt="">
                                         <h5>Study Abroad</h5>
-                                        <p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod.</p>
                                     </div>
                                     <!--Icon Box End-->
                                     <!--Icon Box Start-->
                                     <div class="icon-box">
                                         <img src="/production/images/h1-icon4.png" alt="">
                                         <h5>Online Courses</h5>
-                                        <p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod.</p>
                                     </div>
                                     <!--Icon Box End-->
                                 </div>
