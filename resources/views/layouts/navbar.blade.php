@@ -31,7 +31,7 @@
 
                                 </li>
                                 <li class="dropdown">
-                                    <a href="/contact" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Get Appointments </a>
+                                    <a href="/contact"> Get Appointments </a>
                                 </li>
                                 <li><a href="/about">About Us </a></li>
 
