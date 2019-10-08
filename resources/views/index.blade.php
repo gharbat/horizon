@@ -9,8 +9,7 @@
             <div id="home1-slider" class="owl-carousel owl-theme">
                 <div class="item">
                     <div class="slide-caption">
-                        <strong>Get the Best Education<br>
-                            for Bright Future...</strong>
+                        <strong>Study abroad, easy process with horizon</strong>
 
                     </div>
                     <span class="slide-img"><img src="/production/images/hp1-slide1.jpg" alt=""></span>
