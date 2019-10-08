@@ -26,7 +26,7 @@ class CreateUsersTable extends Migration
         $user= new \App\User();
         $user->name = "Mohammad";
         $user->email= "admin@horizonedus.com";
-        $user->password = '$2y$12$EiEmnKcexW1ISoB.hu9q3ux.jP/1MTyIUGrBjEpdRKLStLr89k8vW';
+        $user->password = '$2y$12$eEAWrNbN8niLrJbzk15UG.oVTaU7vcd0IMKkLoCWdvvwem65w1FPy';
         $user->save();
     }
 
