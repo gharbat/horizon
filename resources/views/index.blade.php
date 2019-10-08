@@ -213,7 +213,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 col-sm-3">
-                            <a href="tel:+962796070226">
+                            <a href="tel:+962796070266">
                                 <div class="ci-box c1">
                                     <div class="hcp-icon"> <i class="fas fa-phone"></i> </div>
                                     <strong>Call us directly</strong>
@@ -222,7 +222,7 @@
 
                         </div>
                         <div class="col-md-3 col-sm-3">
-                            <a href="https://wa.me/962796070226">
+                            <a href="https://wa.me/962796070266">
                                 <div class="ci-box c2">
                                     <div class="hcp-icon"><i class="fab fa-whatsapp"></i> </div>
                                     <strong>Whatsapp messages</strong>
