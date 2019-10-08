@@ -174,7 +174,7 @@
                                                 @endif
                                             </a> </h4>
                                     </div>
-                                    <a class="news-details" href="/posts">News Detail</a>
+                                    <a class="news-details" href="/post/{{$post->slug}}">know more</a>
                                 </div>
                             </div>
                         @endforeach
