@@ -11,13 +11,13 @@
                     <div class="slide-caption">
                         <strong>Get the Best Education<br>
                             for Bright Future...</strong>
-                        <a href="#">More About</a>
+
                     </div>
                     <span class="slide-img"><img src="/production/images/hp1-slide1.jpg" alt=""></span>
                 </div>
                 <div class="item">
                     <div class="slide-caption"> <strong>Get the Best Education<br>
-                            for Bright Future...</strong> <a href="#">More About</a>
+                            for Bright Future...</strong>
                     </div>
                     <span class="slide-img"><img src="/production/images/hp1-slide1.jpg" alt=""></span>
                 </div>
@@ -37,8 +37,7 @@
                                     <h1>Welcome To Horizon</h1>
                                 </div>
                                 <p>
-                                    m is simply dummy the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.                                </p>
-
+                                    he number one destination for international students seeking better education, career and life opportunities abroad
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -104,12 +103,6 @@
                         </div>
                         <div class="col-md-3 col-sm-3 pl0">
                             <div class="tweets-bg">
-                                <div class="tweets">
-                                    <span class="tw-meta"> <a href="#"><i class="fas fa-reply"></i></a> <a href="#"><i class="fas fa-heart"></i></a> </span>
-                                    <h4>Horizon's twitter !</h4>
-                                    <p>We are proud of our diverse University community which attracts students. @HorizonEdus #horizon</p>
-                                    <span>about 2 hours ago</span>
-                                </div>
                             </div>
                         </div>
                     </div>

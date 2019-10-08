@@ -15,9 +15,9 @@ Route::get('/', function () {
     return view('index');
 });
 //
-//Route::get('/about', function () {
-//    return view('pages.static.about');
-//});
+Route::get('/about', function () {
+    return view('pages.static.about');
+});
 
 
 Route::get('/post/{slug}','PostController@showPost');
@@ -35,6 +35,7 @@ Route::get('/course/{slug}','CourseController@showCourse');
 
 Route::get('/courses','CourseController@allCourses');
 
+Route::get('/page/{slug}','PageController@showPage');
 
 Auth::routes();
 
